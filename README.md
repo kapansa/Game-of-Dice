@@ -1,5 +1,5 @@
 # Game-of-Dice
-A game of dice that uses the random numbers to display different sides of the dice.
+A game of dice that uses random numbers to display different sides of a dice.
 
 ---
 
