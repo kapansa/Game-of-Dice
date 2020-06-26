@@ -1,0 +1,94 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin: 30px;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 20px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+.btn-refresh{ 
+  text-decoration: none;
+  color: #393E46;
+  background-color: #4ECCA3;
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 1.4rem;
+  margin-right: 20px;
+  border: 2px solid #4ECCA3;
+}
+.btn-refresh:hover{
+  border: 2px solid #4ECCA3;
+  background-color: transparent;
+  color: #4ECCA3;
+}
+
+.btn-restart{ 
+  text-decoration: none;
+  color: #393E46;
+  background-color: rgb(185, 67, 67);
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 1.4rem;
+  border: 2px solid rgb(185, 67, 67);
+}
+.btn-restart:hover{
+  border: 2px solid rgb(185, 67, 67);
+  background-color: transparent;
+  color: rgb(185, 67, 67);
+}
+.btn-container{
+  margin-top: 60px;
+}
+
+span{
+  color: rgb(185, 67, 67);
+  font-size: 2.6rem;
+}
+
+.btn-finish{ 
+  text-decoration: none;
+  color: #393E46;
+  background-color: rgb(185, 67, 67);
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 1.4rem;
+  border: 2px solid rgb(185, 67, 67);
+}
+.btn-finish:hover{
+  border: 2px solid rgb(185, 67, 67);
+  background-color: transparent;
+  color: rgb(185, 67, 67);
+}
